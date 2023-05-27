@@ -68,7 +68,8 @@ plt.legend()
 plt.title("5. Customer Segments")
 plt.show()
 
-
+print('6. Data info')
+data.info()
 ```
 
 ## Output:
