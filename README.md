@@ -77,6 +77,7 @@ plt.show()
 ![K Means Clustering for Customer Segmentation](output3.PNG)
 ![K Means Clustering for Customer Segmentation](output4.PNG)
 ![K Means Clustering for Customer Segmentation](ouput5.PNG)
+![K Means Clustering for Customer Segmentation](output6.PNG)
 
 
 ## Result:
